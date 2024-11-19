@@ -4,6 +4,8 @@ The chatbot processes a user's query in natural language, converts it into a SQL
 
 <img width="739" alt="image" src="https://github.com/user-attachments/assets/746f8c66-965c-4c56-8696-2be7b6e4e365">
 
+
+
 **Features** 
 - Natural Language Queries: Query the database using conversational language.
 - Python-based: Entirely coded in Python, showcasing best practices in software development with modern technologies.
